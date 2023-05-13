@@ -1,4 +1,4 @@
-### Olá! Eu sou o Denis Moreira 👋 
+## Olá! Eu sou o Denis Moreira 👋 
 
 ### Tecnologia é a habilidade de organizar o mundo de forma que não tenhamos que senti-lo. 
 
@@ -17,8 +17,8 @@
 <img aling="center" alt=css3 src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img aling="center" alt=javascript src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img aling="center" alt=python src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img aling="center" alt=nodejs src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img aling="center" alt=C# src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img aling="center" alt=PHP src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img aling="center" alt=GitHub src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img aling="center" alt=bootstrap src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img aling="center" alt=figma src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
