@@ -5,7 +5,8 @@
 
 <div>
   <a href="https://github.com/Denis-moreira98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denis-moreira98&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+ ![De's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-moreira98&show_icons=true&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-moreira98&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
