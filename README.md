@@ -19,7 +19,7 @@
    <div style="display: flex"><br/>
    <p">
    <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=typescript,js,react,next,vite,nodejs,html,css,sass,tailwind,bootstrap,mysql,firebase,postgres,vercel,figma,github"/></a></p>
+   <img src="https://skillicons.dev/icons?i=typescript,js,react,next,vite,nodejs,html,css,sass,tailwind,styledcomponents,bootstrap,mysql,firebase,postgres,vercel,figma,github,git"/></a></p>
    
    </div>
 
