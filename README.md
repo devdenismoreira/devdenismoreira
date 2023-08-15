@@ -2,7 +2,7 @@
 
 ### Technology is the ability to organize the world so that we don't have to feel it.
 
-### I'm currently studying React Native and Nodejs. 🧑🏽‍💻
+### I'm currently studying Redux and Nodejs. 🧑🏽‍💻
 
    <hr>
    
