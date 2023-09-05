@@ -14,7 +14,7 @@
    
    
    
-   ## <b> Technologies:
+   ## <b> TOOLS & TECHNOLOGIES
    
    <div style="display: flex"><br/>
    <p">
