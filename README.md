@@ -6,16 +6,14 @@
 </div>
 
 <div align="center">
-<a href="https://denis-moreira-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=&logoColor=" target="_blank"></a>
-<a href = "mailto:denis.moreira98@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/denismoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+  <a href="https://denis-moreira-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=&logoColor=" target="_blank"></a>
+  <a href = "mailto:denis.moreira98@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/denismoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-   <div style="display: flex"><br/>
-
-   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=typescript,js,react,next,vite,redux,nodejs,html,css,sass,tailwind,styledcomponents,bootstrap,mysql,firebase,postgres,vercel,figma,github,git"/></a></p>
-   
-   </div>
+<div style="display: flex"><br/>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=typescript,js,react,next,vite,redux,nodejs,html,css,sass,tailwind,styledcomponents,bootstrap,mysql,firebase,postgres,vercel,figma,github,git"/></a></p>
+</div>
