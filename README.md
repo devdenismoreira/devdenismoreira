@@ -15,5 +15,5 @@
 
 <div style="display: flex"><br/>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=typescript,js,react,next,vite,redux,nodejs,html,css,sass,tailwind,styledcomponents,bootstrap,mysql,firebase,postgres,vercel,figma,github,git"/></a></p>
+  <img src="https://skillicons.dev/icons?i=typescript,js,react,next,vite,redux,nodejs,html,css,sass,tailwind,styledcomponents,bootstrap,mysql,firebase,postgres,supabase,vercel,figma,github,git"/></a></p>
 </div>
