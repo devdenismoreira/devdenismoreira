@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cccccc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Denis+Moreira!;I'm+a+Software+Developer;Welcome+to+my+Github!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="51%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Denis-moreira98&show_icons=true&count_private=true&hide_border=true&title_color=4b95fd&icon_color=4b95fd&text_color=eeeeee&bg_color=0d1117&rank_icon=github" alt="Denis Moreira Github Stats" /> 
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-moreira98&layout=compact&hide_border=true&title_color=4b95fd&text_color=ffffff&bg_color=0d1117" />
+  <img width="48%" height="205px" src="https://github-readme-stats.vercel.app/api?username=Denis-moreira98&show_icons=true&count_private=true&hide_border=true&title_color=4b95fd&icon_color=4b95fd&text_color=eeeeee&bg_color=0d1117&rank_icon=github" alt="Denis Moreira Github Stats" /> 
+  <img width="40%" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-moreira98&layout=compact&hide_border=true&title_color=4b95fd&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <div align="center">
