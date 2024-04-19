@@ -12,7 +12,7 @@
 </div>
 
 
-<div style="display: flex"><br/>
+<div style="display: flex" align="center"><br/>
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h2> Frontend </h2>
   <a href="https://skillicons.dev">
