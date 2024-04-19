@@ -11,9 +11,16 @@
   <a href="https://www.linkedin.com/in/denismoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
 
 <div style="display: flex"><br/>
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h2> Frontend </h2>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=typescript,js,react,next,vite,redux,nodejs,html,css,sass,tailwind,styledcomponents,bootstrap,mysql,firebase,postgres,prisma,supabase,vercel,figma,github,git"/></a></p>
+  <img src="https://skillicons.dev/icons?i=typescript,js,react,next,redux,html,css,sass,tailwind,styledcomponents,bootstrap,"/></a></p>
+  <h2> Backend </h2>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=typescript,js,nodejs,express,mysql,sequelize,postgres,prisma,mongo,firebase,supabase"/></a></p>
+ <h2> Ferramentas </h2>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,powershell,npm,yarn,vite,docker,regex,vercel,figma,github,git"/></a></p>
 </div>
