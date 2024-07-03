@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=typescript,js,react,next,redux,html,css,sass,tailwind,styledcomponents,bootstrap,"/></a></p>
   <h2> Backend </h2>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize,postgres,prisma,mongo,firebase,supabase"/></a></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,mysql,sequelize,postgres,prisma,mongo,firebase,supabase"/></a></p>
  <h2> Ferramentas </h2>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,powershell,npm,yarn,vite,docker,regex,vercel,figma,github,git"/></a></p>
