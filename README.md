@@ -8,7 +8,7 @@
 
 -  🌱 I’m currently learning **Principles SOLID, Nestjs, Jest, React Testing Library**
 
--  👨‍💻 All of my projects are available at [Portfólio](https://denis-moreira-portfolio.vercel.app/)
+-  👨‍💻 Check out some of my projects at [Portfólio](https://denis-moreira-portfolio.vercel.app/)
 
 -  📫 How to reach me **denis.moreira98@outlook.com**
 
