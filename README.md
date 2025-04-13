@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cccccc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Denis+Moreira!;I'm+a+FullStack+Developer;Coffe?☕)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="48%" height="205px" src="https://github-readme-stats.vercel.app/api?username=Denis-moreira98&show_icons=true&count_private=true&hide_border=true&title_color=4b95fd&icon_color=4b95fd&text_color=eeeeee&bg_color=0d1117&rank_icon=github" alt="Denis Moreira Github Stats" /> 
+  <img width="48%" height="205px" src="https://github-readme-stats.vercel.app/api?username=devdenismoreira&show_icons=true&count_private=true&hide_border=true&title_color=4b95fd&icon_color=4b95fd&text_color=eeeeee&bg_color=0d1117&rank_icon=github" alt="Denis Moreira Github Stats" /> 
   <img width="40%" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdenismoreira&layout=compact&hide_border=true&title_color=4b95fd&text_color=ffffff&bg_color=0d1117" />
 </div>
 
